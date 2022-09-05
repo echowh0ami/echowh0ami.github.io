@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>first</title>
-    <link href="/2022/09/05/first/"/>
-    <url>/2022/09/05/first/</url>
+    <title>Mysql数据库学习</title>
+    <link href="/2022/09/05/Mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
+    <url>/2022/09/05/Mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><img src="/2022/09/05/first/test.png" class="" title="This is an example image">]]></content>
+    <content type="html"><![CDATA[<h1 id="MySQL数据库学习"><a href="#MySQL数据库学习" class="headerlink" title="MySQL数据库学习"></a>MySQL数据库学习</h1><h2 id="登录MySQL"><a href="#登录MySQL" class="headerlink" title="登录MySQL"></a>登录MySQL</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">mysql -u用户 -p密码<br></code></pre></td></tr></table></figure><p><img src="/Mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/login_mysql.png"></p>]]></content>
     
     
     
